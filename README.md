@@ -17,14 +17,4 @@ I enjoy turning raw data into clear, actionable insights and visualisations that
 
 ### 📍 Based in Sydney, Australia
 I’m actively seeking Data Analyst opportunities where I can apply analytical skills to drive business value and grow in a collaborative, insight-focused team.
-✨ LinkedIn-Optimised Version (if you want to paste into your LinkedIn “About” section)
-markdown
-Copy code
-I’m a data-driven analyst with 10+ years of experience in the retail and events sectors, applying analytical thinking and data insights to solve business problems.
-
-My strengths lie in transforming raw data into structured insights through SQL and Python, enabling better decision-making across performance reporting, trend analysis, and operational optimisation.
-
-I’m passionate about clear communication of analytical findings, and I enjoy working cross-functionally to align data solutions with business goals.
-
-Currently building a public data portfolio to demonstrate end-to-end analytical work, and actively pursuing Data Analyst roles in Sydney and beyond.
 
