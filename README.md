@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👋 About Me
 
 I’m Alec Worthy — a data-driven analyst with a strong foundation in extracting insights from complex data to support smarter business decisions.
