@@ -8,6 +8,7 @@ I enjoy turning raw data into clear, actionable insights and visualisations that
 
 ### 🔍 What I’m Good At
 - SQL (joins, aggregation, window functions, data modelling)
+- Excel & Google Sheets (spreadsheets, pivot tables, Power Query, VLOOKUP)
 - Python (Pandas, EDA, charting)
 - Data cleaning, quality assurance, and reporting
 - Translating business questions into analytical solutions
