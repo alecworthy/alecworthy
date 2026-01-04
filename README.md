@@ -14,6 +14,9 @@ I enjoy turning raw data into clear, actionable insights and visualisations that
 - Translating business questions into analytical solutions
 - Communicating insights to stakeholders
 
+### 👋 My Portfolio
+[View my Full Portfolio Guide here](https://github.com/alecworthy/Portfolio-Guide/blob/main/README.md)
+
 ### 📍 Based in Sydney, Australia
 I’m actively seeking Data Analyst opportunities where I can apply analytical skills to drive business value and grow in a collaborative, insight-focused team.
 
