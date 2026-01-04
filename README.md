@@ -12,6 +12,7 @@ I enjoy turning raw data into clear, actionable insights and visualisations that
 - Python (Pandas, EDA, charting)
 - Data cleaning, quality assurance, and reporting
 - Translating business questions into analytical solutions
+- Visualisations (Tableau, Power BI)
 - Communicating insights to stakeholders
 
 ### 👋 My Portfolio
